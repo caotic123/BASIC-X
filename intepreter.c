@@ -1,16 +1,5 @@
-// Basic X é uma linguagem de script escrita em C
-// basic_x trabalha com variaveis com apenas duas constantes com valores 1(adiciona) ou 0(diminui) embora possa representar qualquer numero diretamente com casas que sejam de 1 ou 0 (ou seja 0, 1, 10, 11, 100, 111, 1000 etc...)
-// basic_x trabalha com qualquer valor inteiro, embora não possa representa esses valores diretamente no script
-// a unica variavel é x com n dimensões, x é estado
-// estrutura de repetição e condicional são as unicas estruturas logicas completas
-// todo restante logico deve ser construido com regras
-// regras são as explorações e construção de operadores logicos, funções e tipos
-// basic_x é uma linguagem procedural orientada em regras logicas
-
 //Some scripts...
-//Operador (*) de multiplicaçao https://pastebin.com/nHifv0Kp
 //Declaring Variable https://pastebin.com/gWpxJPWm
-//Fibonacci https://pastebin.com/YjusmEqs
 //Multiplos de 3 https://pastebin.com/wK7tXin2
 
 //Insira o codigo no INPUT caso ira apenas testar
