@@ -9,9 +9,6 @@ Basic X é uma linguagem de script escrita em C. Basic_x ou Basic X trabalha com
 
 . Todo restante logico deve ser construido com regras
 
-Repl:
-https://repl.it/@caotic/Basic-X-BETA
-
 Multiplication
 ```
 *(
